@@ -94,6 +94,10 @@ footer {
   background: var(--light);
   padding: 30px 0px;
 }
+.footer {
+  align-items: baseline;
+
+}
 
 button {
   font-size: 1rem;
@@ -346,16 +350,11 @@ a {
 
 /* col-sm */
 @media screen and (min-width: 300px) {
-  /* fix nav */
-  /* center about */
+
   h3 {
     text-align: center;
   }
-  /* .headshot {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  } */
+
   .bio {
     padding: 5px;
   }
@@ -369,7 +368,6 @@ a {
 
 /* col-sm */
 @media screen and (min-width: 768px) {
-/* center about */
 
 h3 {
   text-align: left;
@@ -393,22 +391,12 @@ h3 {
 
 }
 
-/* col-md */
-@media screen and (min-width: 768px) {
-/* center portfolio items */
-}
-
 /* col-lg */
-@media screen and (min-width: 992px) {
+/* @media screen and (min-width: 992px) {
   nav {
     width: auto;
     justify-content: flex-end;
   }
 
 
-}
-
-/* col-xl */
-@media screen and (min-width: 1200px) {
-
-}
+} */

@@ -5,7 +5,7 @@
     "description": "PWA, IndexedDB",
     "github": "https://github.com/emilyadarr/budget-tracker-19",
     "deployed": "https://safe-mountain-13532.herokuapp.com/",
-    "image": "1"
+    "image": "budget-tracker-sm"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "NoSQL, Express.js, MongoDB, Mongoose ODM",
     "github": "https://github.com/emilyadarr/social-network-api-18",
     "deployed": "https://drive.google.com/file/d/177Lx3y-ssqsY2ExOMkXufa35ebcK6viF/view",
-    "image": "2"
+    "image": "1"
   },
   {
     "id": 3,
@@ -30,6 +30,38 @@
     "github": "https://github.com/emilyadarr/tech-blog-14",
     "deployed": "https://murmuring-cove-46557.herokuapp.com/",
     "image": "tech-blog-sm"
+  },
+  {
+    "id": 5,
+    "name": "Pursuit of Hoppyness",
+    "description": "HTML, CSS, Javascript, Tailwind, Moment.js, Yelp API, OpenBrewery API",
+    "github": "https://github.com/emilyadarr/pursuit-of-hoppyness",
+    "deployed": "https://emilyadarr.github.io/pursuit-of-hoppyness/",
+    "image": "pursuit-of-hoppyness-sm"
+  },
+  {
+    "id": 6,
+    "name": "Weather Dashboard",
+    "description": "HTML, CSS, JavaScript, Open Weather One Call API",
+    "github": "https://github.com/emilyadarr/weather-dashboard-06",
+    "deployed": "https://emilyadarr.github.io/weather-dashboard-06/",
+    "image": "weather-dashboard-sm"
+  },
+  {
+    "id": 7,
+    "name": "Work Dy Scheduler",
+    "description": "JavaScript, Moment.js, jQuery, Bootstrap, Open Iconic",
+    "github": "https://github.com/emilyadarr/work-day-scheduler-05",
+    "deployed": "https://emilyadarr.github.io/work-day-scheduler-05/",
+    "image": "work-day-sm"
+  },
+  {
+    "id": 8,
+    "name": "Code Quiz",
+    "description": "JavaScript",
+    "github": "https://github.com/emilyadarr/code-quiz-04",
+    "deployed": "https://emilyadarr.github.io/code-quiz-04/",
+    "image": "quiz-sm"
   }
 
 ]
