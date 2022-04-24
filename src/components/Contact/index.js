@@ -40,11 +40,11 @@ function Contact() {
       <h3>Contact Me</h3>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
-          <label htmlFor="name">Name:</label>
+          <label htmlFor="name">Name:</label><br></br>
           <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
         </div>
         <div>
-          <label htmlFor="email">Email address:</label>
+          <label htmlFor="email">Email address:</label><br></br>
           <input type="email" defaultValue={email} name="email" onBlur={handleChange} />
         </div>
         <div>

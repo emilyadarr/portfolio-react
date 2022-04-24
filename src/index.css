@@ -144,12 +144,13 @@ input:focus {
   box-shadow: 0 0 .25rem rgba(0, 0, 0, .5);
 }
 
-li {
+/* li {
   list-style: none;
-}
+} */
 
 nav  li {
   cursor: pointer;
+  list-style: none;
 }
 
 .nav-link {
@@ -203,6 +204,10 @@ textarea {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.resume {
+  padding: 0px 40px;
 }
 
 .flex-row {
