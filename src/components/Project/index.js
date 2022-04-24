@@ -36,7 +36,7 @@ const Project = (props) => {
   
   // ];
   return (
-    <div className='my-2'>
+    <div className='my-2 mx-2'>
         <ImgOverlay 
           alt={props.name} 
           imgSrc={require(`../../assets/images/${props.image}.jpg`)}

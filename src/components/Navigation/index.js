@@ -8,7 +8,7 @@ function Navigation({ currentPage, handlePageChange }) {
       </h2>
       <nav>
         <ul className="flex-row">
-          <li className="mx-2 nav-item">
+          <li className="mx-2 my-1 nav-item">
             <a
               href="#about"
               onClick={() => handlePageChange('About')}
@@ -17,7 +17,7 @@ function Navigation({ currentPage, handlePageChange }) {
               About
             </a>
           </li>
-          <li className="mx-2 nav-item">
+          <li className="mx-2 my-1 nav-item">
             <a
               href="#portfolio"
               onClick={() => handlePageChange('Portfolio')}
@@ -26,7 +26,7 @@ function Navigation({ currentPage, handlePageChange }) {
               Portfolio
             </a> 
           </li>
-          <li className="mx-2 nav-item">
+          <li className="mx-2 my-1 nav-item">
             <a
               href="#Resume"
               onClick={() => handlePageChange('Resume')}
@@ -35,7 +35,7 @@ function Navigation({ currentPage, handlePageChange }) {
               Resume
             </a>
           </li>
-          <li className="mx-2 nav-item">
+          <li className="mx-2 my-1 nav-item">
             <a
               href="#contact"
               onClick={() => handlePageChange('Contact')}
