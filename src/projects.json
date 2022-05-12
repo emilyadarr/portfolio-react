@@ -1,5 +1,13 @@
 [
   {
+    "id": 9,
+    "name": "Flicks & Food",
+    "description": "MERN",
+    "github": "https://github.com/ThomBurt/flicks-and-food",
+    "deployed": "https://flicks-and-food.herokuapp.com/",
+    "image": "flicks-and-food-sm"
+  },
+  {
     "id": 1,
     "name": "Budget Tracker",
     "description": "PWA, IndexedDB",
