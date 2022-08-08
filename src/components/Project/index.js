@@ -20,13 +20,15 @@ const Project = (props) => {
           fSize='10px'
           fColor='#4A7C59'
         >
-          <div>
+          <div className='w-5'>
             {<h4 className='cardText'><a href={props.deployed}>{props.name}</a></h4>}
-            {<p>{props.description}</p>}
+            {<p>{props.tech}</p>}
+            {<p className='p-small'>{props.description}</p>}
             <a className='icon' href={props.github}><FaGithub style={{ fontSize: '50px'}} /></a>
 
           </div>
         </ImgOverlay>
+        {/* <p className='p-small'>{props.description}</p> */}
     </div>
   )
 }

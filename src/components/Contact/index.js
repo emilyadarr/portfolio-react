@@ -58,6 +58,9 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      <div>
+        <p className='px-5'>Email me directly at <a href="mailto:emilyadarr@gmail.com">emilyadarr@gmail.com</a>.</p>
+      </div>
     </section>
   )
 

@@ -6,6 +6,7 @@
   --lighter: #FAF3DD;
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
+  --spacing-three: calc(1.5rem);
   --spacing-five: calc(2.5rem);
 }
 
@@ -72,6 +73,17 @@ h6 {
 p {
   font-size: 1.1rem;
   margin-top: 0;
+}
+
+.p-small {
+  min-width: 340px;
+  font-weight: 600;
+  line-height: 16px;
+  font-size: 14px;
+  letter-spacing: .1em;
+  margin-top: 5px;
+  max-height: 250px;
+  padding: 0px;
 }
 
 a {
@@ -267,6 +279,16 @@ textarea {
   padding-left: var(--spacing-two);
 }
 
+.px-3 {
+  padding-right: var(--spacing-three);
+  padding-left: var(--spacing-three);
+}
+
+.px-5 {
+  padding-right: var(--spacing-five);
+  padding-left: var(--spacing-five);
+}
+
 .py-1 {
   padding-top: var(--spacing-one);
   padding-bottom: var(--spacing-one);
@@ -320,6 +342,7 @@ textarea {
   font-size: 16px;
   line-height: 1.5;
   margin: auto;
+  letter-spacing: .05em;
 }
 
 button {

@@ -9,7 +9,7 @@ const Portfolio = () => {
     
     <div className='container flex-row center'>
       {projects.map((project) => (
-        <Project key={project.id} image={project.image} name={project.name} github={project.github} deployed={project.deployed} description={project.description}/>
+        <Project key={project.id} image={project.image} name={project.name} github={project.github} deployed={project.deployed} description={project.description} tech={project.tech}/>
 
       ))}
     </div>

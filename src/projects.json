@@ -2,7 +2,8 @@
   {
     "id": 9,
     "name": "Flicks & Food",
-    "description": "MERN",
+    "tech": "MERN",
+    "description": "An application that allows users to create a profile and generate an at-home date night by selecting a movie, restaurant, and cocktail based on certain criteria.",
     "github": "https://github.com/ThomBurt/flicks-and-food",
     "deployed": "https://flicks-and-food.herokuapp.com/",
     "image": "flicks-and-food-sm"
@@ -10,7 +11,8 @@
   {
     "id": 1,
     "name": "Budget Tracker",
-    "description": "PWA, IndexedDB",
+    "tech": "PWA, IndexedDB",
+    "description": "Budget tracker application for users to easily track their money.",
     "github": "https://github.com/emilyadarr/budget-tracker-19",
     "deployed": "https://safe-mountain-13532.herokuapp.com/",
     "image": "budget-tracker-sm"
@@ -18,7 +20,8 @@
   {
     "id": 2,
     "name": "Social Network API",
-    "description": "NoSQL, Express.js, MongoDB, Mongoose ODM",
+    "tech": "NoSQL, Express.js, MongoDB, Mongoose ODM",
+    "description": "API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list.",
     "github": "https://github.com/emilyadarr/social-network-api-18",
     "deployed": "https://drive.google.com/file/d/177Lx3y-ssqsY2ExOMkXufa35ebcK6viF/view",
     "image": "1"
@@ -26,7 +29,8 @@
   {
     "id": 3,
     "name": "Plant Pal",
-    "description": "Handlebars.js, Node.js, Express.js, MySQL",
+    "tech": "Handlebars.js, Node.js, Express.js, MySQL",
+    "description": "An application that allows users to create a profile and keep track of their house plant.",
     "github": "https://github.com/emilyadarr/plant_pal",
     "deployed": "https://plant-pal-project.herokuapp.com/",
     "image": "plant-pal-sm"
@@ -34,7 +38,8 @@
   {
     "id": 4,
     "name": "Tech Blog",
-    "description": "MVC, Handlebars.js, Sequelize",
+    "tech": "MVC, Handlebars.js, Sequelize",
+    "description": "CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well.",
     "github": "https://github.com/emilyadarr/tech-blog-14",
     "deployed": "https://murmuring-cove-46557.herokuapp.com/",
     "image": "tech-blog-sm"
@@ -42,7 +47,8 @@
   {
     "id": 5,
     "name": "Pursuit of Hoppyness",
-    "description": "HTML, CSS, Javascript, Tailwind, Moment.js, Yelp API, OpenBrewery API",
+    "tech": "Javascript, Tailwind, Moment.js, Yelp API, OpenBrewery API",
+    "description": "Pursuit of Hoppyness is a brewery finder dashboard to allow users to search a city for local breweries and find hours of operation and reviews.",
     "github": "https://github.com/emilyadarr/pursuit-of-hoppyness",
     "deployed": "https://emilyadarr.github.io/pursuit-of-hoppyness/",
     "image": "pursuit-of-hoppyness-sm"
@@ -50,15 +56,17 @@
   {
     "id": 6,
     "name": "Weather Dashboard",
-    "description": "HTML, CSS, JavaScript, Open Weather One Call API",
+    "tech": "HTML, CSS, JavaScript, Open Weather One Call API",
+    "description": "Weather dashboard built with HTML, CSS and JavaScript using Open Weather One Call API.",
     "github": "https://github.com/emilyadarr/weather-dashboard-06",
     "deployed": "https://emilyadarr.github.io/weather-dashboard-06/",
     "image": "weather-dashboard-sm"
   },
   {
     "id": 7,
-    "name": "Work Dy Scheduler",
-    "description": "JavaScript, Moment.js, jQuery, Bootstrap, Open Iconic",
+    "name": "Work Day Scheduler",
+    "tech": "JavaScript, Moment.js, jQuery, Bootstrap, Open Iconic",
+    "description": "Calendar application allowing users to save tasks or events for each hour of the work day.",
     "github": "https://github.com/emilyadarr/work-day-scheduler-05",
     "deployed": "https://emilyadarr.github.io/work-day-scheduler-05/",
     "image": "work-day-sm"
@@ -66,7 +74,8 @@
   {
     "id": 8,
     "name": "Code Quiz",
-    "description": "JavaScript",
+    "tech": "JavaScript",
+    "description": "A timed coding quiz with multiple-choice questions for coding students studying JavaScript fundamentals.",
     "github": "https://github.com/emilyadarr/code-quiz-04",
     "deployed": "https://emilyadarr.github.io/code-quiz-04/",
     "image": "quiz-sm"
